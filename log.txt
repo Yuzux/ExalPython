@@ -1,0 +1,20 @@
+15:35:51	Pump_1 : Starting task
+15:35:53	Pump_1 : Task is done
+15:35:58	Pump_1 : Starting task
+15:36:00	Pump_1 : Task is done
+15:36:01	Machine_1 : Starting task
+15:36:06	Machine_1 : Task is done
+15:36:09	Pump_1 : Starting task
+15:36:11	Pump_1 : Task is done
+15:36:17	Machine_1 : Starting task
+15:36:22	Machine_1 : Task is done
+15:40:22	Pump_1 : Starting task
+15:40:24	Pump_1 : Task is done
+15:40:29	Pump_1 : Starting task
+15:40:31	Pump_1 : Task is done
+15:40:32	Machine_1 : Starting task
+15:40:37	Machine_1 : Task is done
+15:40:40	Pump_1 : Starting task
+15:40:42	Pump_1 : Task is done
+15:40:49	Machine_1 : Starting task
+15:40:54	Machine_1 : Task is done
